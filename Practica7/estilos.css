@@ -1,0 +1,156 @@
+@font-face {
+
+	font-family: roboto_bold;
+	
+	src: url('fuentes/Roboto-Bold.ttf');
+	
+	}
+	@font-face {
+
+		font-family: tangerine_bold;
+		
+		src: url('fuentes/Tangerine_Bold.ttf');
+		
+		}
+		@font-face {
+
+			font-family: aarvark_cafe;
+			
+			src: url('fuentes/Aarvark_Cafe.ttf');
+			
+			}
+		
+	
+.cabeza{
+	background-color:rgba(21, 9, 88, 0.562);
+	margin-top: 5px;
+	padding: 2px;
+	height: 95px;
+	text-align: center;
+
+	
+}
+.titulo {
+	
+	font-family: tangerine_bold;
+	
+	font-size: 25px;
+	
+	}
+
+
+
+.cuerpo{
+	margin-top: 10px;
+	height: 420px;
+	
+}
+.imagen1{
+	width: 30%;
+	height: 400px; 
+	float: left;
+	
+	
+}
+
+.yo{
+	width: 250px;
+	height: 400px;
+	margin-left: 20%;
+	
+}
+.imagen2{
+	width: 59%;
+	height: 400px;
+	float: right;
+	
+	
+}
+
+.t1{
+	font-family: roboto_bold;
+	
+	font-size: 20px;
+}
+.t2{
+	font-family: roboto_bold;
+	font-size: 20px;
+
+}
+
+.t3{
+	font-family: roboto_bold;
+	font-size: 20px;
+
+}
+.estudios{
+	font-family: roboto_bold;
+	
+	font-size: 15px;
+}
+.experiencia{
+	font-family: roboto_bold;
+	
+	font-size: 15px;
+
+}
+.habilidades{
+	font-family: roboto_bold;
+	
+	font-size: 15px;
+
+}
+
+
+
+
+
+.pie{
+	background-color: gray;
+	margin-top: 10px;
+	width: 100%;
+	
+	
+}
+.redes{
+	margin-left: auto;
+  	margin-right: auto;
+	width: 17%;
+	
+}
+
+.derechos{
+	text-align: center;
+	width: 100%;
+	
+	
+}
+.contacto{
+	font-family: aarvark_cafe;
+	font-size: 20px;
+}
+
+.material-icons {
+	font-family: 'Material Icons';
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24px;  /* Preferred icon size */
+	display: inline-block;
+	line-height: 1;
+	text-transform: none;
+	letter-spacing: normal;
+	word-wrap: normal;
+	white-space: nowrap;
+	direction: ltr;
+  
+	/* Support for all WebKit browsers. */
+	-webkit-font-smoothing: antialiased;
+	/* Support for Safari and Chrome. */
+	text-rendering: optimizeLegibility;
+  
+	/* Support for Firefox. */
+	-moz-osx-font-smoothing: grayscale;
+  
+	/* Support for IE. */
+	font-feature-settings: 'liga';
+  }
